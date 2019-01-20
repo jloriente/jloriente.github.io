@@ -12,21 +12,28 @@ Open Source projects I'm involved:
 * [Locomote.sh](https://github.com/locomote-sh): SaaS platform for building and hosting PWAs
 * [SCFFLD](https://github.com/innerfunction/SCFFLD-and): JSON based Dependency Injection framework for Android
 
-# Media and press
+## About me
 
-Some links in the media about myself of products I've worked on:
+Some articles about me in the press:
 
+* [Heraldo.es](https://www.heraldo.es/noticias/economia/un_cerebro_fugado_que_vuelve_casa_dispuesto_triunfar.html) (ES)
+* [InnovaSpain.com](https://hemeroteca.innovaspain.com/detalle_noticia.php?id=842) (ES)
+* [MasQueNegocio.com](https://www.masquenegocio.com/2012/01/02/javier-loriente-en-espana-hace-falta-un-cambio-de-mentalidad/) (ES)
+
+<a name="go-movil" />
 ## Go Movil
 
-In 2011 we created Go Movil, a company based in Zaragoza Activa:
+In 2011 we created Go Movil:
 
-<iframe width="710" height="399" src="https://www.youtube.com/embed/d9hRIc98HsA" frameborder="0" allowfullscreen></iframe><br/>
+<div class="video-container"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/d9hRIc98HsA" frameborder="0" allowfullscreen></iframe></div>
 
+<a name="webmob"></a>
 ## Webmob
 
 In 2012 we created WebMob: A SaaS for non-technical users to easily create and manage mobile websites:
 
-<iframe width="710" height="399" src="https://www.youtube.com/embed/HHMJHJzK6zI" frameborder="0" allowfullscreen></iframe><br/>
+<div class="video-container"><iframe width="710" height="399" src="https://www.youtube.com/embed/HHMJHJzK6zI" frameborder="0" allowfullscreen></iframe></div>
+<br/>
 
 <!-- <iframe width="710" height="399" src="https://www.youtube.com/embed/CpgZinaN78w" frameborder="0" allowfullscreen></iframe>-->
 
@@ -37,12 +44,9 @@ The project got funding from the Spanish government (ENISA) and also got some co
 * [Esic.edu](https://www.esic.edu/editorial/editorial_prensa_noticia.php?tematica=333&id=1078&pag=17) (ES)
 * [Heraldo.es](https://www.heraldo.es/noticias/economia/la_empresa_aragonesa_movil_gana_premio_movistar_emprendedores_cloud.html) (ES)
 
-<!--## Cuvino <iframe width="710" height="399" src="https://www.youtube.com/embed/7RIiEtcuYgM" frameborder="0" allowfullscreen></iframe><br/>-->
+<a name="cuvino" />
+## Cuvino
 
-## About me
+Cuvino is a customized version of WebMob targeting the wine sector:
 
-Some articles about me in the media:
-
-* [Heraldo.es](https://www.heraldo.es/noticias/economia/un_cerebro_fugado_que_vuelve_casa_dispuesto_triunfar.html) (ES)
-* [InnovaSpain.com](https://hemeroteca.innovaspain.com/detalle_noticia.php?id=842) (ES)
-* [MasQueNegocio.com](https://www.masquenegocio.com/2012/01/02/javier-loriente-en-espana-hace-falta-un-cambio-de-mentalidad/) (ES)
+<div class="video-container"><iframe width="710" height="399" src="https://www.youtube.com/embed/7RIiEtcuYgM" frameborder="0" allowfullscreen></iframe><div>
