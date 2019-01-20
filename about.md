@@ -19,4 +19,5 @@ I mainly develop in JS but I'm also proficient with other technologies:
 I have a MSc. in Network and Distributed Systems (Trinity College Dublin) a MSc. in Information Technologies Management (UEM) and a BSc. in Computer Science (University of Wales, Cardiff).
 
 
+
 # Find full information about me in [LinkedIn](https://www.linkedin.com/in/jloriente/).
