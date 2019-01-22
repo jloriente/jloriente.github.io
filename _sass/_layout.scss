@@ -161,6 +161,19 @@
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
+    .timeline:before {
+        display: none;
+    }
+    // .timeline-body {
+    //     display: none;
+    // }
+    .timeline-panel {
+        width: 100% !important;
+        z-index: 99;
+    }
+    .timeline-badge {
+        display: none;
+    }
 }
 
 
