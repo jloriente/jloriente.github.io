@@ -14,7 +14,7 @@ Open Source projects I'm involved:
 
 ## About me
 
-Some articles about me in the press:
+Some articles about me in the media:
 
 * [Heraldo.es](https://www.heraldo.es/noticias/economia/un_cerebro_fugado_que_vuelve_casa_dispuesto_triunfar.html) (ES)
 * [InnovaSpain.com](https://hemeroteca.innovaspain.com/detalle_noticia.php?id=842) (ES)
@@ -39,7 +39,7 @@ In 2012 we created WebMob: A SaaS for non-technical users to easily create and m
 
 The project won the "I Concurso Movistar de Aplicaciones Cloud”, got integrated in Applicateca -Movistar's Cloud marketplace-,  and got funding from the Spanish Government (ENISA).
 
-WebMob got some coverage in the Spanish press:
+WebMob got some coverage in the Spanish media:
 
 * [Europa Press](https://www.europapress.es/aragon/innova-00241/noticia-innova-empresa-aragonesa-go-movil-gana-premio-movistar-emprendedores-cloud-categoria-mejor-iniciativa-20110718201612.html) (ES)
 * [Revista Cloud Computing](https://www.revistacloudcomputing.com/2011/07/tyven-system-y-go-movil-ganan-el-premio-movistar-emprendedores-cloud/) (ES)
