@@ -9,7 +9,7 @@ I’m particularly interested in Web and Mobile technologies, always focused on 
 
 I mainly develop in JS but I'm also proficient with other technologies:
 
-- Frontend development: JavaScript (ES5/ES6), React, Ember, HTML5, CSS3, Bootstrap.
+- Frontend development: JavaScript (ES5/ES6), React, Ember, HTML5, CSS3, Twitter Bootstrap.
 - Backend development: Node.js, PHP (Wordpress), Java.
 - Mobile development: Android (Java), Apache Cordova, Titanium SDK.
 - NoSQL databases: CouchDB, MongoDB.
